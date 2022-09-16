@@ -8,9 +8,9 @@
 When JavaScript runs code it goes through line by line and executes each line this process is known as the thread of execution.
 ### Memory
 While the thread of execution encounters any variables in its process it stores them in a place known as memory. Thread of execution stores variables in memory with their labels so they can be called or used again.<br>
-Strings, integers, objects etc all of them are stored in memory while functions are also stored in memory when they are declared and when they are called using ```
+Strings, integers, objects etc all of them are stored in memory while functions are also stored in memory when they are declared and when they are called using 
 functionName()
-``` they run code that was stored in memory.
+they run code that was stored in memory.
 ### Execution Context
 Execution context is needed for every function to execute. It consists of two main parts <br>
 **Thread of execution <br>
