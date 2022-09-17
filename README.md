@@ -1,2 +1,2 @@
-# Blogs
-This repo includes blogs i wrote.
+# Read on Hashnode.
+https://umairkhan.hashnode.dev/
