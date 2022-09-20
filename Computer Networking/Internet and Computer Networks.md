@@ -10,6 +10,7 @@ So your personal computer is connected to other computers at your house or workp
 In 1950 when the U.S. was in a cold war with the soviet union. Soviets launched sputnik a satellite in space, in response U.S. government created ARPA (Advanced Research Projects Agency) which was mandated with the responsibility of the technological and scientific advancement of the country.
 
 In 1969 ARPANET was created to communicate between computers but the problem was there was no standard protocol for communication then TCP (Transmission Control Protocol) was invented to solve this problem.
+
 In 1980 ARPANET was migrated to TCP/IP.
 # World Wide Web
 In 1990 Tim Berners-Lee introduced his World Wide Web project to store and retrieve inter-connected documents.
